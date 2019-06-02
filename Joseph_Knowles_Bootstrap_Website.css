@@ -1,0 +1,35 @@
+h2{
+    margin: 20px 10px 0px 10px;
+}
+h3{
+    font-size: 23px;
+}
+svg{
+    float: right;
+}
+.tech-detail{
+    margin:0;
+    padding:12px 0 12px 0;
+    border-bottom:solid 1px rgb(175,175,175);
+}
+.tech_more_less{
+    margin:0;
+    padding:5px 0 0 0;
+    font-size: 12px;
+}
+hr{
+    margin-top: 25px;
+}
+#data_box{
+    min-height: 500px;
+    background: blue;
+}
+/* img{
+    margin-bottom: 20px;
+    display: inline;
+} */
+/* img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+} */
